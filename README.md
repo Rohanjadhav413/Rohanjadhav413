@@ -3,6 +3,7 @@
 🚀 **About Me**
 
 🎓 BCA Graduate (2025) from Institute of Technology & Management (ITM), Nanded
+🎓 Currently pursuing MCA at Sahayog Sevabhavi Sanstha's Sahayog College of Education, Nanded
 
 💻 **Aspiring Data Analyst | Python Developer | SQL Developer**
 
