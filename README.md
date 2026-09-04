@@ -24,6 +24,7 @@
 * NumPy
 * Matplotlib
 * Seaborn
+* Tableau
 
 ### 📊 Data Visualization & BI
 
@@ -46,6 +47,7 @@
 * PyCharm
 * Jupyter Notebook
 * Kaggle
+* Google Colab
 
 ---
 
@@ -55,6 +57,7 @@
 * Power BI
 * Machine Learning
 * Generative AI
+* Testing
 
 ---
 
