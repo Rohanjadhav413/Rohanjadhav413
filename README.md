@@ -104,7 +104,8 @@
 📧 Email:**[[rj9735636@gmail.com](mailto:rj9735636@gmail.com)]**
 
 💼 LinkedIn:**[Rohan Jadhav]**
+💼 [LinkedIn](https://www.linkedin.com/in/rohan-jadhav-354a49322/)
 
-🐙 GitHub: **[Your GitHub Profile]**
+🐙 GitHub: **[Rohanjadhav413]**
 
 
